@@ -542,7 +542,7 @@ const updateUI = function (acc) {
 
 ///////////////////////////////////////
 // Event handlers
-// let currentAccount;
+let currentAccount;
 
 // //FAKE ALWAYS LOGIN
 // currentAccount = account1;
